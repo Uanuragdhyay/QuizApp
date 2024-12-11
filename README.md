@@ -1,2 +1,2 @@
 # QuizApp
-Quiz Appusing Flutter
+Quiz App using Flutter
